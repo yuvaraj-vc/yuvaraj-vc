@@ -47,10 +47,11 @@ Welcome to my GitHub profile! I'm a passionate developer, always on the lookout 
 ## 📈 **GitHub Stats & Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvaraj-vc&show_icons=true&theme=radical" alt="Yuvaraj's GitHub stats" height="180em" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaraj-vc&theme=radical" alt="GitHub Streak" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaraj-vc&layout=compact&theme=radical" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvaraj-vc&show_icons=true&theme=radical" alt="Yuvaraj's GitHub stats" height="180em" style="margin: 10px;" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaraj-vc&theme=radical" alt="GitHub Streak" height="180em" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaraj-vc&layout=compact&theme=radical" alt="Top Languages" height="180em" style="margin: 10px;" />
 </p>
+
 
 ---
 
