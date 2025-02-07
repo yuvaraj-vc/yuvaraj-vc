@@ -47,9 +47,8 @@ Welcome to my GitHub profile! I'm a passionate developer, always on the lookout 
 ## 🏆 **GitHub Badges**
 
 <p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" height="150em" />
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" height="150em"/>
-  <img src="[![image](https://github.com/user-attachments/assets/9004af1b-065c-47e9-8069-b53da0fcdfb6)](https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif)" height="150rem"/>
-
 </p>
 
 ---
@@ -58,7 +57,6 @@ Welcome to my GitHub profile! I'm a passionate developer, always on the lookout 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuvaraj-vc&show_icons=true&theme=radical" alt="Yuvaraj's GitHub stats" height="180em" style="margin: 10px;" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvaraj-vc&theme=radical" alt="GitHub Streak" height="180em" style="margin: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvaraj-vc&layout=compact&theme=radical" alt="Top Languages" height="180em" style="margin: 10px;" />
 </p>
 
@@ -83,8 +81,8 @@ This intuitive tool generates well-structured, conflict-free timetables for scho
 ## 📫 **Let’s Connect**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourtwitterhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YOUR-TWITTER-HANDLE"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=github-pages&logoColor=white" /></a>
 </p>
 
