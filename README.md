@@ -48,6 +48,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always on the lookout 
 
 <p align="center">
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" height="150em"/>
+  <img src="[![image](https://github.com/user-attachments/assets/9004af1b-065c-47e9-8069-b53da0fcdfb6)](https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif)" height="150rem"/>
 
 </p>
 
